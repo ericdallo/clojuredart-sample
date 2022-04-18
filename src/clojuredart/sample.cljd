@@ -1,0 +1,5 @@
+(ns clojuredart.sample
+  (:require ["package:flutter/material.dart" :as m :refer [Colors]]))
+
+(defn main []
+  (print "hello, world\n"))
